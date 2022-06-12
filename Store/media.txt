@@ -1,0 +1,3 @@
+id,type,genre,name,director,score,url,duration,parts
+1,film,sf,john_wick,nolan,9,google.com,120,0
+2,film,sf,tenet,nolan,8,google.com,120,0
